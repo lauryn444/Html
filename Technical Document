@@ -1,0 +1,59 @@
+<!Doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+</head> 
+<body>
+  
+  <header>
+  <h1>Technical<br>
+    Documentation</br></h1>
+  </header>
+
+  
+
+  
+  
+  <nav>
+  <li><a href="#section-1">Introduction</a></li>
+  <li><a href="#section-2">Prerequisites</a></li>
+  <li><a href="#section-3">About the Topic</a></li>
+  <li><a href="#artilce-1">Topic One</a></li>
+  <li><a href="#artilce-2">Topic Two</a></li>
+  </nav>  
+
+                  
+   
+
+  <section-1>
+  <h2 style="background: black; color: white"> Introduction</h2>  
+  <p>Some content about the main topic, for example,Javascript documentation intro about the language</p>
+  </section-1>
+
+  <section-2>
+  <h3 style="background: black; color:white">Prerequisites</h3> 
+  <p>Background information before getting into the topic:</p>
+    <li>content</li>
+    <li>some more content</li>
+  </section-2>
+
+  <section-3>
+     <h3 style="background: black; color:white">About topic</h3>
+     <p>some words</p>
+  <p>any other content to be covred before learning this topic</p>
+  </section-3>
+  
+  <artilce-1>
+    <h3 style="background: black; color:white">Topic one</h3>
+    <p>getting start with the actual documentation content</p>
+  </artilce-1>
+
+<artilce-2>
+  <h3 style="background: black; color:white">Topic two</h3>
+  <p> another awesome top</p>
+</artilce-2>
+ 
+  
+  </body>
+</html>
+  
